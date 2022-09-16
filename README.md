@@ -4,7 +4,7 @@
 
 Download the LieAnalysis-package via [www.LieAnalysis.nl](http://www.lieanalysis.nl/wp-content/uploads/2018/LieAnalysis-25-04-2018.zip)
 
-and put it in the folder "C:\Users\s149687\AppData\Roaming\Mathematica\Applications". Note that your folder path will be slightly different.
+and put it in the folder "C:\Users\UserName\AppData\Roaming\Mathematica\Applications". Note that your folder path will be slightly different.
 
 2. Install Anaconda3.
 
